@@ -1,21 +1,31 @@
 ---
 layout: post
-title:  "Les Ambassadeurs, the first Restaurant we Visited in Paris"
-author: sal
-categories: [ Lifestyle ]
-tags: [ France ]
+title:  "BMW starts production of iX3 electric SUV — first vehicle with next-gen electric powertrain"
+author: Danny
+categories: [ Cars ]
+tags: [ BMW ]
 image: assets/images/2.jpg
 rating: 4.5
 ---
 
-Within the Hôtel de Crillon, which was built in 1758, Les Ambassadeurs operated as a restaurant since the mid-19th century. It reached its peak of fame as a restaurant and nightclub (a café-concert) in the last three decades of the 19th century. 
+### BMW has started production of the iX3 electric SUV, the German automaker’s first vehicle with its next-generation electric powertrain.
+ 
+The BMW iX3 electric SUV is important for several reasons.
 
-Always a center of entertainment for the aristocracy, in the 1870s it also became a regular destination of some of the best known figures of art and the demi-monde. Edgar Degas and Henri de Toulouse-Lautrec portrayed visitors at the night club, and Aristide Bruant performed there.
+When unveiling the BMW iX3 concept vehicle in 2018, the German automaker said that it’s going to be the first electric vehicle based on its fifth-generation electric powertrain technology, which is designed to enable longer electric range.
 
-> It was decorated in an 18th-century rococo style, redesigned by Sybille de Margérie with furnishings by Sonia Rykiel.
+The next-generation EV is also the first fully electric vehicle launched by BMW since the i3 back in 2013.
 
-Following a renovation of the hotel in 1981–85, the restaurant occupied a former private ballroom with windows looking out on the Place de la Concorde, a few hundred meters from the Palais Garnier. 
+Interestingly, BMW also plans to produce the vehicle in China and export it to other markets — something very few automakers are doing — though we are starting to see a trend on that front with electric vehicle makers, like Polestar.
 
-Les Ambassadeurs had two Michelin stars. In the last decade of its operation, chef was Dominique Bouchet  followed by Jean-François Piège and finally when the hotel closed in 2013 for an extended renovation, Christopher Hache.
+Now BMW has announced that its joint-venture in China, BMW Brilliance Automotive (BBA), has started production of the BMW iX3 electric SUV.
 
-In 2017 Hache opened a smaller restaurant, L'Écrin, within the renovated hotel; the former space of Les Ambassadeurs became a bar.
+Franz Decker, head of BBA’s Technology and Production division, said during the event celebrating the start of production:
+
+> "Today, we begin production of the BMW iX3, the first pure electric model from our core BMW brand. With a production system like this, specialised for high quality, we are able to deliver what customers worldwide demand from premium vehicles."
+
+They released some footage of the production in their Chinese factory.
+
+During the launch earlier this summer, [BMW confirmed the specs](https://www.press.bmwgroup.com/global/article/detail/T0310696EN/the-first-ever-bmw-ix3) of the iX3. The BMW iX3’s 80-kilowatt-hour battery pack — 74 kWh of which is useable — offers a range of 460 kilometers (286 miles) using the generous WLTP testing numbers. That likely translates to around 200 miles in real-world driving.
+
+Here are a few pictures of the production version of the electric SUV:
