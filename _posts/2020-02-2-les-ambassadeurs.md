@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "BMW starts production of iX3 electric SUV — first vehicle with next-gen electric powertrain"
-author: Danny
+author: danny
 categories: [ Cars ]
 tags: [ BMW ]
 image: assets/images/2.jpg
